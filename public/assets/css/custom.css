@@ -1,0 +1,49 @@
+/* Alle custom css per component/module/view */
+img.img-fluid.profile {
+    /* flex: 25%; */
+    /* display: flex; */
+    width: 150px;
+}
+
+a.btn.btn-outline-danger.rounded-pill.order-0.student {
+    width: 150px;
+    height: fit-content;
+}
+
+.studenttease {
+    display: table-cell;
+}
+
+img.img-fluid.profile.student {
+    border-radius: 75px;
+    margin-bottom: 20px;
+    border-style: dashed;
+    border-width: 7px;
+    border-color: #f5383830;
+    margin-right: 30px;
+}
+
+.weather {
+    color: #f63838;
+    font-weight: 600;
+}
+
+span.badge.badge-success {
+    background-color: #ff807b;
+}
+
+span.badge.badge-warning {
+    background-color: #f63f3f;
+}
+
+a.linkcourse {
+    color: black;
+    display: block;
+    margin-top: 7px;
+}
+span.badge.badge-default {
+    background-color: #b92221;
+}
+span.badge.badge-light {
+    background-color: black;
+}
